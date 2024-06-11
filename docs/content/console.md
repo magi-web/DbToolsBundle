@@ -8,8 +8,8 @@ If installed via composer, simply run:
 ./vendor/bin/db-tools
 ```
 
-This CLI tool runs outside of the framework and application context, therefore requires
-that you provide a dedicated configuration file for it.
+This CLI tool runs outside of the framework and application context. Therefore it requires
+that you provide a dedicated configuration file.
 
 :::info
 A script that generates a working PHAR file is provided in the repository and can be
