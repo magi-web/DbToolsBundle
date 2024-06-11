@@ -50,9 +50,8 @@ database URL containing all necessary information and options for connecting.
 ### Anonymizer mapping
 
 Anonymizer tables and columns cannot be configured via command line options since
-they necessitate a more complex configuration representation. In order to use the
-standalone CLI for anonymizing, you are required to create a mapping configuration
-file.
+they require a more complex configuration. In order to use the standalone CLI for 
+anonymizing, you need to provide a mapping configuration file.
 
 File structure is the same as the documented YAML anonymization configuration file
 which can be used as-is.
