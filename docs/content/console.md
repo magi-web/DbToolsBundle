@@ -12,9 +12,8 @@ This CLI tool runs outside of the framework and application context. Therefore i
 that you provide a dedicated configuration file.
 
 :::info
-A script that generates a working PHAR file is provided in the repository and can be
-used to create a self-contained PHAR archive for running in a docker container, on
-a baremetal with PHP installed, etc...
+An experimental script that generates a PHAR file is provided in the repository and can be
+used to create a self-contained executable
 
 Future plans are to provide an official PHAR archive for each stable release.
 :::
