@@ -1,6 +1,6 @@
 # CLI tool
 
-DbTools ships a standalone console tool for running it as an standalone application.
+DbTools ships a console tool for running it as an standalone application.
 
 If installed via composer, simply run:
 
